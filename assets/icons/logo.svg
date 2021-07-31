@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 47.625 47.625"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/lorenzo/AndroidStudioProjects/funfit/assets/icons/logo.png"
+   inkscape:export-xdpi="273.06668"
+   inkscape:export-ydpi="273.06668"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="3.0333333"
+     inkscape:cx="72.197802"
+     inkscape:cy="88.351648"
+     inkscape:window-width="1366"
+     inkscape:window-height="730"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-midpoints="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       aria-label="F"
+       id="text1089"
+       style="font-weight:bold;font-size:66.3222px;line-height:1.25;-inkscape-font-specification:'sans-serif, Bold';stroke-width:0.264583">
+      <path
+         d="M 20.131618,47.489525 H 10.249611 V 0.13547621 H 37.375389 V 8.3594286 H 20.131618 V 20.562713 H 36.18159 v 8.223952 H 20.131618 Z"
+         id="path2448" />
+    </g>
+    <path
+       id="path2168"
+       style="fill:#ff00ff"
+       inkscape:transform-center-x="1.7814956"
+       inkscape:transform-center-y="-0.25006987"
+       transform="matrix(0.26458333,0,0,0.26458333,7.268896,-4.0106992)"
+       d="m 113.78832,15.670584 0,31.082656 H 48.615013 Z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path2168-4"
+       style="fill:#800080;stroke-width:0.264583"
+       inkscape:transform-center-x="1.7814956"
+       inkscape:transform-center-y="-0.25006987"
+       d="M 37.375389,0.1354761 20.131618,8.3594286 10.249611,0.13547621 Z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path2168-4-3"
+       style="fill:#800080;stroke-width:0.264583"
+       inkscape:transform-center-x="1.7814956"
+       inkscape:transform-center-y="-0.25006987"
+       d="M 20.131618,8.3594287 10.249611,23.812501 V 0.13547621 Z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path2168-4-0"
+       style="fill:#ff00ff;stroke-width:0.264583"
+       inkscape:transform-center-x="1.7814956"
+       inkscape:transform-center-y="-0.25006987"
+       d="M 20.131618,38.138095 10.249611,23.812501 20.131618,8.3594287 Z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path2168-4-7"
+       style="fill:#800080;stroke-width:0.264583"
+       inkscape:transform-center-x="1.7814956"
+       inkscape:transform-center-y="-0.25006987"
+       d="m 20.131618,38.138095 -9.882007,9.35143 V 23.812501 Z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path2168-4-8"
+       style="fill:#ff00ff;stroke-width:0.264583"
+       inkscape:transform-center-x="1.7814956"
+       inkscape:transform-center-y="-0.25006987"
+       d="m 20.131618,47.489525 h -9.882007 l 9.882007,-9.35143 z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path2168-4-6"
+       style="fill:#ff00ff;stroke-width:0.264583"
+       inkscape:transform-center-x="1.7814956"
+       inkscape:transform-center-y="-0.25006987"
+       d="M 36.18159,20.562713 20.131618,28.786665 V 20.562713 Z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path2168-4-88"
+       style="fill:#800080;stroke-width:0.264583"
+       inkscape:transform-center-x="1.7814956"
+       inkscape:transform-center-y="-0.25006987"
+       d="M 36.18159,28.786665 H 20.131618 L 36.18159,20.562713 Z"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>
